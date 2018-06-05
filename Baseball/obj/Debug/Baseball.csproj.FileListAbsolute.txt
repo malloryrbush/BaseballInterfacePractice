@@ -1,0 +1,7 @@
+c:\users\wecancodeit\source\repos\Baseball\Baseball\bin\Debug\Baseball.exe.config
+c:\users\wecancodeit\source\repos\Baseball\Baseball\bin\Debug\Baseball.exe
+c:\users\wecancodeit\source\repos\Baseball\Baseball\bin\Debug\Baseball.pdb
+c:\users\wecancodeit\source\repos\Baseball\Baseball\obj\Debug\Baseball.csprojAssemblyReference.cache
+c:\users\wecancodeit\source\repos\Baseball\Baseball\obj\Debug\Baseball.csproj.CoreCompileInputs.cache
+c:\users\wecancodeit\source\repos\Baseball\Baseball\obj\Debug\Baseball.exe
+c:\users\wecancodeit\source\repos\Baseball\Baseball\obj\Debug\Baseball.pdb
